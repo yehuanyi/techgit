@@ -1,1 +1,5 @@
 # techgit
+
+### thisGITtechLog
+
+# hello word!
